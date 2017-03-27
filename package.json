@@ -1,0 +1,15 @@
+{
+  "name": "fpg-beginner-practice-intel",
+  "version": "1.0.0",
+  "description": "An Intel Commercial ad For IPads",
+  "main": "index.js",
+  "scripts": {
+    "gh": "node conf/deploy"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^0.12.0"
+  },
+  "dependencies": {}
+}
